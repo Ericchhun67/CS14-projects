@@ -8,6 +8,7 @@
 // using a simmple loop
 //
 
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
