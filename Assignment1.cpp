@@ -5,7 +5,7 @@
 // 08/17/22
 // 
 // Assignment1
-// A simple little program to print and prompt
+// A simple little program to print and prompt user
 //
 
 
